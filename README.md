@@ -1,2 +1,2 @@
-# ariadne
-Visualize various search algorithms solving a maze.
+### Ariadne
+Visualize various search algorithms solving mazes.
